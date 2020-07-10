@@ -1,10 +1,12 @@
 ### Hi there, I'm Kaustubh  👋
-Currently employed at Mentor Graphics,Siemens
+Currently employed at Mentor Graphics,Siemens<br>
+You can reach me @ kaustubhdeokar@pm.me<br>
 
-Sharing Updates on <a href="https://www.linkedin.com/in/kaustubhdeokar/">LinkedIn</a>
+Profiles<br>
+Sharing Updates on <a href="https://www.linkedin.com/in/kaustubhdeokar/">LinkedIn</a><br>
+<a href="https://www.hackerrank.com/kaustubhdeokar">Hackerrank Profile</a><br>
 
 
-Reach me @kaustubhd9@gmail.com
 <!--
 **kaustubhdeokar/kaustubhdeokar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
