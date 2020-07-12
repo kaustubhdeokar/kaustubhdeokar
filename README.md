@@ -1,5 +1,5 @@
 ### Hi there, I'm Kaustubh  👋
-Currently employed at Mentor Graphics,Siemens<br>
+Currently working at Mentor Graphics,Siemens<br>
 You can reach me @ kaustubhdeokar@pm.me<br>
 
 Profiles<br>
