@@ -4,7 +4,6 @@ You can reach me @ kaustubhdeokar@pm.me<br>
 
 Profiles<br>
 Sharing Updates on <a href="https://www.linkedin.com/in/kaustubhdeokar/">LinkedIn</a><br>
-<a href="https://www.hackerrank.com/kaustubhdeokar">Hackerrank Profile</a><br>
 
 
 <!--
