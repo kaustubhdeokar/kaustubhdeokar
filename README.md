@@ -1,6 +1,6 @@
 ### Hi there, I'm Kaustubh  👋
 Currently working at Mentor Graphics,Siemens<br>
-You can reach me @ kaustubhdeokar@pm.me<br>
+You can reach me @ kaustubhd9@gmail.com<br>
 
 Profiles<br>
 Sharing Updates on <a href="https://www.linkedin.com/in/kaustubhdeokar/">LinkedIn</a><br>
