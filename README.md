@@ -1,5 +1,5 @@
 ### Hi there, I'm Kaustubh  👋
-Currently working at Siemens EDA (Mentor Graphics)<br>
+Currently working at Siemens Digital Industries <br>
 You can reach me @ kaustubhd9@gmail.com<br>
 
 Profiles<br>
