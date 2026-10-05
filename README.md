@@ -1,13 +1,10 @@
 ### Hi there, I'm Kaustubh  👋
-Currently working at Siemens Digital Industries <br>
+Currently working as a Fullstack Engineer @ New Relic <br>
 You can reach me @ kaustubhd9@gmail.com<br>
 
 Profiles<br>
 Sharing Updates on <a href="https://www.linkedin.com/in/kaustubhdeokar/">LinkedIn</a><br>
 and <a href="https://kaustubhdeokar.github.io/myblog">Blogging a bit here 🧗‍♂️</a><br>
-
-Currently working on [Backend-mini-project-implementations](https://github.com/kaustubhdeokar/Backend-mini-project-implementations)
-
 <!--
 **kaustubhdeokar/kaustubhdeokar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
